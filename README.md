@@ -1,5 +1,5 @@
 # COREZ Car Rentals Database
-COMP-122 | Introduction to Database Systems - Group Project
+COMP-122 | Introduction to Database Systems (Winter 2023)
 <Group 16>
 
 Stephen Cornel <br>
