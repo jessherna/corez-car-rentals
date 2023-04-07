@@ -1,4 +1,5 @@
-# COMP-122 | Introduction to Database Systems - Group Project
+# COREZ Car Rentals Database
+COMP-122 | Introduction to Database Systems - Group Project
 <Group 16>
 
 Stephen Cornel <br>
